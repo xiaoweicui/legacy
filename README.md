@@ -1,5 +1,4 @@
-#legacy
-edit html:
+LEGACY
 <img src ="https://github.com/xiaoweicui/legacy/blob/master/legacy/game.PNG" width=350 height=350>
 <img src ="https://github.com/xiaoweicui/legacy/blob/master/legacy/game2.PNG" width=350 height=350>
 <img src ="https://github.com/xiaoweicui/legacy/blob/master/legacy/game3.PNG" width=350 height=350>
